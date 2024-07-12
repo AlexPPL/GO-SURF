@@ -39,7 +39,15 @@ export function Home() {
 							<div className='search'>
 								<div className='search-icon'></div>
 							</div>
-							<div className='date-location'></div>
+							<div className='date'>
+								<div className='date-day'>20</div>
+								<div className='date-mounth'>06</div>
+								<div className='date-year'>2018</div>
+							</div>
+							<div className='location'>
+								<div className='location-icon'></div>
+								<div className='location-place'></div>
+							</div>
 						</nav>
 					</div>
 					<div className='home-area right'></div>
